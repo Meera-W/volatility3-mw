@@ -42,3 +42,6 @@ ENV/
 
 # PyTest cache files
 .pytest_cache/
+
+#Folder that contains memory dump files (.mem,.raw,.vmem)
+volatility3/mem*

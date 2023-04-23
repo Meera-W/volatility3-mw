@@ -44,4 +44,4 @@ ENV/
 .pytest_cache/
 
 #Folder that contains memory dump files (.mem,.raw,.vmem)
-volatility3/mem*
+volatility3-mw/mem*

@@ -39,6 +39,7 @@ ENV/
 *.dmp
 *.vmem
 *.img
+*.mem
 
 # PyTest cache files
 .pytest_cache/

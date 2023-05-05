@@ -70,8 +70,8 @@ os.system('python vol.py -f "./mem/ACTF.mem" windows.malfind')
 
 # Yarascan
 # applies to yara files only ig?
-# os.system('python vol.py -f "./mem/ACTF.mem" windows.vadyarascan ‑‑yara-rules <string>')
-# os.system('python vol.py -f "/path/to/file" windows.vadyarascan ‑‑yara-file "/path/to/file.yar"')
+# os.system('python vol.py -f "./mem/ACTF.mem" windows.yarascan ‑‑yara-rules <string>')
+# os.system('python vol.py -f "/path/to/file" windows.yarascan ‑‑yara-file "/path/to/file.yar"')
 # os.system('python vol.py -f "/path/to/file" yarascan.yarascan ‑‑yara-file "/path/to/file.yar"')
 
 
